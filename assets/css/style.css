@@ -1,0 +1,24 @@
+
+body {
+    background: url('../images/background_image.png') no-repeat center center fixed; 
+    background-size: cover;
+}
+
+.container {
+    max-width: 960px;
+} 
+
+.img-fluid {
+    max-width: 200px;
+    height: 200px;
+}
+main{
+    padding:15px;
+}
+.main-info {
+    padding: 20px;
+}
+#about-text {
+    font-size: 20px;
+    line-height: 1.5;
+}
